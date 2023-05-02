@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {    
 
+    const bodyEl = document.querySelector('body');
+
     // hamburger menu 
     const menu = document.querySelector('.icon');
     const menuCont = document.querySelector('.menu_cont');
