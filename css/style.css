@@ -7,7 +7,7 @@ section p{padding-top:5%;}
 
 
 
-.top_utils{position:fixed;top:-15%;left:50%;transform:translateX(-50%);width:100%;max-width:1000px;margin:0 auto;box-sizing:border-box;padding:6.0% 6.4%;display:flex;justify-content:space-between;z-index:251;background-color:rgba(0,0,0,0.3);opacity:1;transition:all ease-in-out 0.5s;-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);}
+.top_utils{position:fixed;top:-15%;left:50%;transform:translateX(-50%);width:100%;max-width:1000px;margin:0 auto;box-sizing:border-box;padding:6.0% 6.4%;display:flex;justify-content:space-between;z-index:251;background-color:rgba(0,0,0,0.3);opacity:1;transition:all ease-in-out 0.5s;-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);background-color:#000;}
 .top_utils.show{top:0;opacity:1;display:flex;transition:all ease-in-out 0.5s;-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);}
 .top_utils .logo_s{width:48.165137%}
 .top_utils .side_m{display:flex;justify-content:space-between;align-items:center;width:37.614678%;}
